@@ -1,0 +1,597 @@
+You are a Principal Product Designer, Creative Director, Frontend Architect and Motion Designer.
+
+Your task is to build a world-class storytelling microsite for a premium B2B SaaS platform called **TheRxPulse**.
+
+This is NOT the main product website.
+
+This is NOT a PowerPoint.
+
+This is NOT a documentation site.
+
+This is a premium executive storytelling experience that will eventually be hosted at
+
+https://why.therxpulse.com
+
+The objective is to convince senior pharmaceutical executives that RxPulse helps them make better commercial decisions.
+
+The audience includes:
+
+• CEO
+• Commercial Leadership
+• Portfolio Strategy
+• Business Development
+• Competitive Intelligence
+• Market Access
+• Product Management
+• Executive Leadership
+
+These people do NOT care about databases.
+
+They care about making better decisions.
+
+The storytelling must focus on BUSINESS OUTCOMES.
+
+====================================================
+
+BRAND POSITIONING
+
+RxPulse transforms fragmented pharmaceutical market signals into commercial intelligence.
+
+The platform combines decades of pharmaceutical expertise with modern intelligent automation to deliver insights executives can trust.
+
+AI should NEVER be the headline.
+
+AI is the silent force behind the platform.
+
+The platform must feel as though experienced pharmaceutical strategists built it first, and technology simply makes that expertise scalable.
+
+Every page should reinforce:
+
+"Better decisions.
+Earlier insights.
+Higher confidence."
+
+====================================================
+
+VISUAL STYLE
+
+The design should rival:
+
+Stripe
+
+Linear
+
+Palantir
+
+Databricks
+
+Snowflake
+
+Notion
+
+Apple Product pages
+
+Adobe MAX
+
+Do NOT copy them.
+
+Capture their design quality.
+
+The experience should feel expensive.
+
+Premium.
+
+Minimal.
+
+Sophisticated.
+
+====================================================
+
+TECH STACK
+
+Next.js latest
+
+React
+
+Tailwind CSS
+
+TypeScript
+
+Framer Motion
+
+GSAP only where absolutely necessary
+
+Lucide Icons
+
+Lenis smooth scrolling
+
+Responsive
+
+SEO optimized
+
+Static export
+
+Suitable for GitHub Pages
+
+====================================================
+
+COLOR PALETTE
+
+White background
+
+Soft gray surfaces
+
+Dark navy typography
+
+Emerald accent
+
+Minimal orange highlights
+
+Lots of whitespace
+
+Glassmorphism only where appropriate
+
+Subtle gradients
+
+Never flashy.
+
+====================================================
+
+TYPOGRAPHY
+
+Large typography.
+
+Elegant spacing.
+
+Very little text.
+
+Every sentence should sound like it belongs in a McKinsey presentation.
+
+====================================================
+
+COPY STYLE
+
+Confident.
+
+Executive.
+
+No buzzwords.
+
+No hype.
+
+No exaggerated AI claims.
+
+No "revolutionary".
+
+No "game-changing".
+
+Avoid:
+
+AI-powered
+
+Next-generation
+
+Cutting-edge
+
+Instead use:
+
+Commercial Intelligence
+
+Market Clarity
+
+Strategic Confidence
+
+Connected Signals
+
+Decision Intelligence
+
+Portfolio Visibility
+
+Market Momentum
+
+Opportunity Detection
+
+Competitive Awareness
+
+====================================================
+
+MICROSITE STRUCTURE
+
+----------------------------------------------------
+
+SECTION 1
+
+Hero
+
+Full viewport.
+
+Elegant animated background.
+
+Headline:
+
+Commercial Intelligence for Pharmaceutical Leaders
+
+Subheadline:
+
+Transform fragmented market signals into strategic decisions through decades of pharmaceutical expertise enhanced by intelligent automation.
+
+Primary CTA
+
+Request Demo
+
+Secondary CTA
+
+Explore the Story
+
+Slow premium animations.
+
+====================================================
+
+SECTION 2
+
+The Industry Doesn't Need More Data
+
+Large typography.
+
+Animated transitions.
+
+Explain that pharmaceutical companies already have access to enormous amounts of information.
+
+The challenge is understanding:
+
+What changed?
+
+Why it matters?
+
+What to do next?
+
+Create an animated visualization showing thousands of disconnected signals converging into confusion.
+
+====================================================
+
+SECTION 3
+
+The Intelligence Gap
+
+Explain that every important commercial decision depends on connecting information across many dimensions.
+
+Use elegant animated diagrams.
+
+Examples:
+
+Pricing
+
+Competition
+
+Manufacturing
+
+Regulatory
+
+Supply
+
+Market Behavior
+
+Portfolio
+
+No logos.
+
+No public data source names.
+
+Only conceptual illustrations.
+
+====================================================
+
+SECTION 4
+
+From Signals to Decisions
+
+This is the emotional turning point.
+
+Beautiful animation.
+
+Many fragmented signals flow into
+
+RxPulse Intelligence Engine
+
+which produces
+
+Commercial Decisions
+
+Examples:
+
+Launch Opportunity
+
+Competitive Threat
+
+Pricing Pressure
+
+Growth Potential
+
+Supply Risk
+
+Portfolio Priority
+
+The animation should feel premium.
+
+====================================================
+
+SECTION 5
+
+Questions Every Executive Asks
+
+Each card contains a real business question.
+
+Should we invest in this molecule?
+
+Which competitors are changing the market?
+
+Where are margins under pressure?
+
+Which opportunities are emerging?
+
+What should leadership know this morning?
+
+Each card expands beautifully.
+
+Hover reveals executive dashboards.
+
+====================================================
+
+SECTION 6
+
+Decision Intelligence
+
+Instead of product features,
+
+show executive insights.
+
+Beautiful KPI cards.
+
+Opportunity Score
+
+Competitive Pressure
+
+Growth Index
+
+Launch Readiness
+
+Portfolio Health
+
+Market Momentum
+
+Animated counters.
+
+Elegant charts.
+
+Maps.
+
+Network diagrams.
+
+No screenshots.
+
+Design original dashboards.
+
+====================================================
+
+SECTION 7
+
+See the Bigger Picture
+
+Large animated ecosystem.
+
+Products
+
+Organizations
+
+Manufacturing
+
+Competition
+
+Supply
+
+Pricing
+
+Market
+
+Everything connected.
+
+The message:
+
+No single signal tells the story.
+
+The connections do.
+
+====================================================
+
+SECTION 8
+
+Built on Experience
+
+This is where AI appears.
+
+Headline:
+
+Experience First.
+Intelligence Always.
+
+Explain:
+
+Every insight reflects decades of pharmaceutical market understanding.
+
+Intelligent automation continuously processes evolving market signals so expertise scales with the pace of the industry.
+
+Do NOT oversell AI.
+
+It should feel natural.
+
+Almost understated.
+
+====================================================
+
+SECTION 9
+
+Designed for Leaders
+
+Cards:
+
+Portfolio Strategy
+
+Commercial Excellence
+
+Business Development
+
+Competitive Intelligence
+
+Executive Leadership
+
+Each card explains outcomes.
+
+Never features.
+
+====================================================
+
+SECTION 10
+
+Closing
+
+Beautiful dark section.
+
+Headline:
+
+See What Others Miss.
+
+Subheadline:
+
+The best commercial decisions begin with better intelligence.
+
+CTA
+
+Schedule a Personalized Demonstration
+
+====================================================
+
+IMAGERY
+
+Generate custom illustrations.
+
+No stock photos.
+
+Use:
+
+Abstract pharmaceutical molecules
+
+Network graphs
+
+Executive dashboards
+
+Minimal isometric illustrations
+
+3D translucent objects
+
+Animated flowing particles
+
+Glass panels
+
+Data constellation visuals
+
+Connected intelligence diagrams
+
+Animated topology maps
+
+Soft glowing lines
+
+Everything should feel premium.
+
+====================================================
+
+MOTION
+
+Motion is critical.
+
+Every section should have:
+
+Parallax
+
+Scroll-triggered reveals
+
+Fade
+
+Scale
+
+Depth
+
+Smooth transitions
+
+No gimmicks.
+
+Motion should communicate clarity emerging from complexity.
+
+====================================================
+
+MICROINTERACTIONS
+
+Buttons ripple softly.
+
+Cards elevate.
+
+Numbers animate.
+
+Lines draw themselves.
+
+Charts build progressively.
+
+Maps illuminate.
+
+Connections animate.
+
+Everything should feel intentional.
+
+====================================================
+
+SEO
+
+Include metadata.
+
+Open Graph.
+
+Twitter cards.
+
+Structured data.
+
+Fast loading.
+
+Lighthouse score above 95.
+
+====================================================
+
+CODE QUALITY
+
+Production quality.
+
+Component-driven architecture.
+
+Reusable design system.
+
+Accessible.
+
+Fully responsive.
+
+Clean folder structure.
+
+No placeholder lorem ipsum.
+
+Use meaningful executive copy throughout.
+
+====================================================
+
+FINAL GOAL
+
+When a pharmaceutical executive finishes scrolling, they should not remember the technology.
+
+They should remember one feeling:
+
+"These people understand our business.
+
+They can help us make better commercial decisions."
+
+That is the emotional outcome this entire experience must create.
